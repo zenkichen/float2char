@@ -1,0 +1,9 @@
+Z:\Documents\My Document\Prog\visual studio\Projects\float2char\float2char\bin\Debug\float2char.exe.config
+Z:\Documents\My Document\Prog\visual studio\Projects\float2char\float2char\bin\Debug\float2char.exe
+Z:\Documents\My Document\Prog\visual studio\Projects\float2char\float2char\bin\Debug\float2char.pdb
+Z:\Documents\My Document\Prog\visual studio\Projects\float2char\float2char\obj\Debug\float2char.csprojResolveAssemblyReference.cache
+Z:\Documents\My Document\Prog\visual studio\Projects\float2char\float2char\obj\Debug\float2char.Form1.resources
+Z:\Documents\My Document\Prog\visual studio\Projects\float2char\float2char\obj\Debug\float2char.Properties.Resources.resources
+Z:\Documents\My Document\Prog\visual studio\Projects\float2char\float2char\obj\Debug\float2char.csproj.GenerateResource.Cache
+Z:\Documents\My Document\Prog\visual studio\Projects\float2char\float2char\obj\Debug\float2char.exe
+Z:\Documents\My Document\Prog\visual studio\Projects\float2char\float2char\obj\Debug\float2char.pdb
